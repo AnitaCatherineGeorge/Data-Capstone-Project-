@@ -1,8 +1,7 @@
 # Data-Capstone-Project-
  Solving real-world problems
 # ABSENTEESM AT WORK
-## The database was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil.
-###### UCI Repository 
+## The database was created with records of absenteeism at work from July 2007 to July 2010 at a courier company in Brazil ( UCI Repository )
 
 
 - Designed and analyzed COVID-19 data from a reliable cloud address to show the progression of pandemic over time.
